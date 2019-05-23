@@ -1,6 +1,6 @@
 {
   "name": "etcd2-backup",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "etcd v2 backup cli",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,8 @@
     "commander": "^2.11.0",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
-    "throttled-promise": "^1.0.1"
+    "throttled-promise": "^1.0.1",
+    "underscore": "^1.8.3",
+    "qpatch": "^0.0.8"
   }
 }
